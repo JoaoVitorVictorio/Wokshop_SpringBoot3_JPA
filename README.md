@@ -19,4 +19,4 @@ O curso abrangeu os seguintes tópicos:
 - [Documentação do Java](https://docs.oracle.com/en/java/)
 
   ## Link do curso:
-  ([https://docs.oracle.com/en/java/](https://www.udemy.com/course/java-curso-completo/)https://www.udemy.com/course/java-curso-completo/)
+  [https://docs.oracle.com/en/java/](https://www.udemy.com/course/java-curso-completo/)https://www.udemy.com/course/java-curso-completo/
